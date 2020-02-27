@@ -13,5 +13,9 @@ class Student
     @id = id
   end
 
+  def create_table
+    
+  end
+
 
 end
